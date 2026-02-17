@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MarkitUp Pro | AI-Unified Commerce",
+  "description": "An elite, judge-grade AI portal enabling native-to-global commerce. Features neural voice translation, automated social media content generation, and multi-channel inventory synchronization powered by Gemini Pro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
